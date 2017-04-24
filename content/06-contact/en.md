@@ -2,8 +2,8 @@
 title: Contact
 description: Learn how to direct questions to the organizers of GB24
 image: /images/5 alpine cranberry.jpg
-imageTitle: Attribution missing
-imageLink: http://none.fi/
+imageTitle: Lingonberry (Vaccinium vitis-idaea) by Kari Pihlaviita (CC BY-NC 4.0)
+imageLink: http://www.inaturalist.org/photos/2298012
 ---
 
 # Contact the organizers
