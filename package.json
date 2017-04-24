@@ -1,0 +1,22 @@
+{
+  "name": "gb23",
+  "version": "1.0.0",
+  "description": "GBIF government board 23",
+  "main": "gulpfile.js",
+  "repository": "gbif/ssg-gb23",
+  "scripts": {
+    "install": "node_modules/bower/bin/bower install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gbif",
+    "ssg"
+  ],
+  "author": "gbif <info@gbif.org>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bower": "^1.7.7",
+    "gbif-ssg": "gbif/ssg.git#9acab328e5e28184303c9fa1355b64e51e95a006",
+    "gulp": "^3.9.0"
+  }
+}
