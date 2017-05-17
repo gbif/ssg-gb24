@@ -80,11 +80,11 @@ Venue: University of Helsinki, Main Building, Small hall, entrance at Fabianinka
 
 ### Thursday 28 September 2017
 
-**Finnish National Seminar**
+**Finnish National Seminar "Finnish Biodiversity Information for the Benefit of Society"**
 Time: 09:00-17:00
 Venue: University of Helsinki, Main Building, Great hall, entrance at Unioninkatu 34 or Aleksanterinkatu 5
 
-*The national seminar on 28 September is a full-day event with talks from invited international and Finnish guest speakers including researhers of various fields as well as representatives of the natural resources administration. The programme gives broad insight into the various uses of openly available bioviersity data in research, governance, and teaching, and introduces the newly established Finnish Biodiversity Information Facility FinBIF (www.laji.fi).*
+*The national seminar is a full-day event with talks from invited international and Finnish guest speakers including researhers of various fields as well as representatives of the natural resources administration. The programme gives broad insight into the various uses of openly available bioviersity data in research, governance, and teaching, and introduces the newly established Finnish Biodiversity Information Facility FinBIF [www.laji.fi](http://www.laji.fi).*
 
 ### Friday 29 September 2017
 
