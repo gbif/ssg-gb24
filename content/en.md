@@ -10,7 +10,7 @@ imageLink: https://www.flickr.com/photos/miguelvirkkunen/10889431856
 
 <p align="center">_The 24th meting of the GBIF Governing Board and associated events_
 _Helsinki, Finland_
--24-29 September 2017_</p>
+_24-29 September 2017_</p>
 
 The Finnish Museum of Natural History, University of Helsinki, on behalf of Finland, is pleased to host the 24th meeting (GB24) of the GBIF Governing Board and warmly welcomes all delegations to Helsinki. 
 
