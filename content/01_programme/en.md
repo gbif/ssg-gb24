@@ -19,7 +19,7 @@ Download a printable one-page overview of GB24 by clicking [here](/raw/programme
 ```styledYaml
 templates:
 - path: pdfpreview_en.html
-  pdf: "/images/GB24_programme.pdf"
+  pdf: "/raw/GB24_programme.pdf"
   img: "images/GB24_programme.jpg"
   description: Download pdf
 ```
