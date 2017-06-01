@@ -16,27 +16,27 @@ imageLink: https://www.flickr.com/photos/tilun_kuvat/23915382473
 
 ## Venues
 
-See map for location of the venues. 
+See [map](/travel-accommodation/#map) for location of the venues. 
 
-### [Hotel Arthur](http://www.hotelarthur.fi/en/), Vuorikatu 19, Helsinki 
+**[Hotel Arthur](http://www.hotelarthur.fi/en/), Vuorikatu 19, Helsinki**
 
 * The Global Nodes meeting Day 1 and 2 (24-25 September)
 
-### [University of Helsinki](https://www.helsinki.fi/en), Main Building, Helsinki (26-28 September)
+**[University of Helsinki](https://www.helsinki.fi/en), Main Building, Helsinki (26-28 September)**
 
 *	Meetings of the GBIF Nodes Steering Group, Budget, Science and Executive Committees (25 September)
 * Governing Board meeting, Small hall, entrance at Fabianinkatu 33 (26-27 September)
 *	FinBIF Seminar, Great hall, entrance at Unioninkatu 34 or Aleksanterinkatu 5 (28 September)
 
-### [Finnish Museum of Natural History](https://www.luomus.fi/en), Pohjoinen Rautatiekatu 17, Helsinki
+**[Finnish Museum of Natural History](https://www.luomus.fi/en), Pohjoinen Rautatiekatu 17, Helsinki**
 
 * Icebreaker (25 September)
 
-### [Restaurant Sipuli](http://www.ravintolasipuli.fi/en), Kanavaranta 7, Helsinki
+**[Restaurant Sipuli](http://www.ravintolasipuli.fi/en), Kanavaranta 7, Helsinki**
 
 * Dinner (26 September)
 
-### [Allas Sea Pool](http://www.allasseapool.fi/eng.html), Katajanokanlaituri 2a, Helsinki
+**[Allas Sea Pool](http://www.allasseapool.fi/eng.html), Katajanokanlaituri 2a, Helsinki**
 
 * Evening at the Allas Sea Pool (28 September)
 
@@ -46,7 +46,7 @@ See map for location of the venues.
 
 The local organizers recommend booking a room in one of the hotels mentioned below. There is an accommodation quota in some of the hotels listed below.  Please make your reservation in advance directly at the conference hotels by using the specific reservation codes.  
 
-Check the map for hotel locations. 
+Check the [map](/travel-accommodation/#map) for hotel locations. 
 
 **Hotel Arthur**
 Vuorikatu 19
