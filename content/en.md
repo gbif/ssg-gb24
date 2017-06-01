@@ -22,5 +22,5 @@ Also, the host kindly invites everybody to participate in the Finnish National S
 
 Attendees may also sign up to conclude their visit on an excursion on 29 September to visit boreal nature. 
 
-**Please note that the registration for the meeting will close on 8 September**
+**Please note that the registration for the meeting will close on 7 September 2017**
 
