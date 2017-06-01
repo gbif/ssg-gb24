@@ -7,7 +7,7 @@ imageLink: http://www.inaturalist.org/photos/4300688
 ---
 # Registration
 
-More to come
+The registration will open shortly. 
 
 
 
