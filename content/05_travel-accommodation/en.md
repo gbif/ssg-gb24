@@ -14,24 +14,77 @@ imageLink: https://www.flickr.com/photos/tilun_kuvat/23915382473
 
 -----------------------
 
-## Venue
+## Venues
 
-### University of Helsinki
-University of Helsinki, Main building
-The main events of GB24 will be held at the Main building of the University of Helsinki, as follows:
+See map for location of the venues. 
 
-*	Governing Board meeting (26-27 September), Small hall, entrance at Fabianinkatu 33
-*	FinBIF Seminar (28 September), Great hall, entrance at Unioninkatu 34 or Aleksanterinkatu 5
+### [Hotel Arthur](http://www.hotelarthur.fi/en/), Vuorikatu 19, Helsinki 
 
-### Hotel Arthur
+* The Global Nodes meeting Day 1 and 2 (24-25 September)
 
-The Nodes meeting will be held at the Hotel Arthur. 
+### [University of Helsinki](https://www.helsinki.fi/en), Main Building, Helsinki (26-28 September)
+
+*	Meetings of the GBIF Nodes Steering Group, Budget, Science and Executive Committees (25 September)
+* Governing Board meeting, Small hall, entrance at Fabianinkatu 33 (26-27 September)
+*	FinBIF Seminar, Great hall, entrance at Unioninkatu 34 or Aleksanterinkatu 5 (28 September)
+
+### [Finnish Museum of Natural History](https://www.luomus.fi/en), Pohjoinen Rautatiekatu 17, Helsinki
+
+* Icebreaker (25 September)
+
+### [Restaurant Sipuli](http://www.ravintolasipuli.fi/en), Kanavaranta 7, Helsinki
+
+* Dinner (26 September)
+
+### [Allas Sea Pool](http://www.allasseapool.fi/eng.html), Katajanokanlaituri 2a, Helsinki
+
+* Evening at the Allas Sea Pool (28 September)
 
 -----------------------
 
 ## Hotels
 
-Information will be made available shortly.
+The local organizers recommend booking a room in one of the hotels mentioned below. There is an accommodation quota in some of the hotels listed below.  Please make your reservation in advance directly at the conference hotels by using the specific reservation codes.  
+
+Check the map for hotel locations. 
+
+**Hotel Arthur**
+Vuorikatu 19
+00100 Helsinki
+
+Rates: 105 eur/night/single room, 125 eur/night/double room
+Booking: [http://www.hotelarthur.fi/en/](http://www.hotelarthur.fi/en/)
+Booking code: GBIF
+*Bookings should be made by 22 July 2017 at the latest.*
+*This hotel is recommended for people attending the Global Nodes meeting which will take place at Hotel Arthur.*
+
+**Sokos Hotel Helsinki**
+Kluuvikatu 8
+00100 Helsinki
+
+Rates: 120 eur/night/single room, 140 eur/night/double room
+Booking: [https://www.sokoshotels.fi/en/helsinki/sokos-hotel-helsinki](https://www.sokoshotels.fi/en/helsinki/sokos-hotel-helsinki)
+Booking code: BGBIF
+*Bookings should be made by 28 August 2017 at the latest.*
+
+**Hotel Scandic Grand Marina**
+Katajanokanlaituri 7
+Helsinki 
+
+Rates: 125 eur/night/single room, 145 eur/night/double room
+Booking: [https://www.scandichotels.com/hotels/finland/helsinki/scandic-grand-marina?_ga=2.66546408.752222354.1496063026-108552031.1496063026](https://www.scandichotels.com/hotels/finland/helsinki/scandic-grand-marina?_ga=2.66546408.752222354.1496063026-108552031.1496063026)
+Booking code: BBIO250917
+*Price is valid until 11 September 2017. No quota.*
+
+**Hotel Cumulus City Kaisaniemi**
+Kaisaniemenkatu 7
+00100 Helsinki
+
+Rates: 123 eur/night/single room, 131 eur/night/double room
+Booking: https://city.cumulus.fi/en/hotels/cumulus-kaisaniemi-helsinki
+Booking code: GBIF
+*Price is valid until 11 September 2017. No quota.*
+
 
 -----------------------
 
