@@ -123,6 +123,13 @@ Time: 09:00-
 *The host warmly welcomes you to participate in one of the two excursions:*
 
 **Excursion option 1: Vallisaari and Suomenlinn**
+```styledYaml
+images:
+- title: Suomenlinna Fortress by Michal Pise (CC-BY-2.0)
+  url: /images/Excursion1.jpg
+  link: reference-location
+```
+
 *[Vallisaari](http://www.nationalparks.fi/vallisaari) is just 20 minutes by boat from the Market Square in Helsinki. The island was opened for the public last year – before that it was decades abandoned and the nature took its place. Vallisaari is the most diverse nature destination in the metropolitan area. The island’s fortifications, buildings, and a record-breaking range of species tell a tale of coexistence between humans and wild nature.*
 
 *Lunch will be served in Vallisaari.
@@ -136,6 +143,13 @@ The other attraction, [fortress of Suomenlinna](http://www.suomenlinna.fi/en/) i
 *Price: 50–60 eur* 
 
 **Excursion option 2: Nuuksio National Park**
+```styledYaml
+images:
+- title: Peat accumulations in a lake in Nuuksio national park by Lauri Rantala (CC-BY-2.0)
+  url: /images/Excursion2.jpg
+  link: reference-location
+```
+
 *The [Nuuksio National Park](http://www.nationalparks.fi/nuuksionp) is located in the border of the oak forest zone and the southern boreal forest zone. The landscape is dominated by valleys and gorges formed by the Ice Age, and barren rocky hills covered by lichen and sparse pine forest. At some places the hills reach the height of 110 metres above the sea level.*
 
 *We will have a guided tour in Nuuksio and a lunch over an open fire.*
