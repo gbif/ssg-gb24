@@ -63,7 +63,7 @@ Helsinki
 
 The local organizers recommend booking a room in one of the hotels mentioned below. There is an accommodation quota in some of the hotels listed below.  Please make your reservation in advance directly at the conference hotels by using the specific reservation codes.  
 
-Check the [map](/travel-accommodation/#map) for hotel locations. 
+Check the [map](../travel-accommodation/#map) for hotel locations. 
 
 **Hotel Arthur**
 Vuorikatu 19
@@ -108,7 +108,7 @@ Booking code: GBIF
 ## Map
 
 Click on the map image to open in full screen view.
-<iframe src="https://www.google.com/maps/d/embed?mid=18kjIHWk3_H8jwRXWGNMP8lntggM" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=18kjIHWk3_H8jwRXWGNMP8lntggM" width="640" height="480" style="height:480px"></iframe>
 
 -----------------------
 
