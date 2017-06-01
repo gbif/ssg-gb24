@@ -30,7 +30,7 @@ templates:
 
 Note that all attendance is subject to prior registration.  
 
-For address information on the various venues, please see [events description page](/travel-accommodation/#venue).
+For address information on the various venues, please see [events description page](../travel-accommodation/#venue).
 
 ### Sunday 24 September 2017
 
