@@ -18,25 +18,35 @@ imageLink: https://www.flickr.com/photos/tilun_kuvat/23915382473
 
 See [map](/travel-accommodation/#map) for location of the venues. 
 
-**[Hotel Arthur](http://www.hotelarthur.fi/en/), Vuorikatu 19, Helsinki**
+**[Hotel Arthur](http://www.hotelarthur.fi/en/)**
+Vuorikatu 19
+Helsinki
 
 * The Global Nodes meeting Day 1 and 2 (24-25 September)
 
-**[University of Helsinki](https://www.helsinki.fi/en), Main Building, Helsinki (26-28 September)**
+**[University of Helsinki](https://www.helsinki.fi/en)**
+Main Building (see access recommendation in list below)
+Helsinki
 
 *	Meetings of the GBIF Nodes Steering Group, Budget, Science and Executive Committees (25 September)
 * Governing Board meeting, Small hall, entrance at Fabianinkatu 33 (26-27 September)
 *	FinBIF Seminar, Great hall, entrance at Unioninkatu 34 or Aleksanterinkatu 5 (28 September)
 
-**[Finnish Museum of Natural History](https://www.luomus.fi/en), Pohjoinen Rautatiekatu 17, Helsinki**
+**[Finnish Museum of Natural History](https://www.luomus.fi/en)**
+Pohjoinen Rautatiekatu 17
+Helsinki
 
 * Icebreaker (25 September)
 
-**[Restaurant Sipuli](http://www.ravintolasipuli.fi/en), Kanavaranta 7, Helsinki**
+**[Restaurant Sipuli](http://www.ravintolasipuli.fi/en)**
+Kanavaranta 7
+Helsinki
 
 * Dinner (26 September)
 
-**[Allas Sea Pool](http://www.allasseapool.fi/eng.html), Katajanokanlaituri 2a, Helsinki**
+**[Allas Sea Pool](http://www.allasseapool.fi/eng.html)**
+Katajanokanlaituri 2a
+Helsinki
 
 * Evening at the Allas Sea Pool (28 September)
 
