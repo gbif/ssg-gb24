@@ -110,7 +110,7 @@ Venue: University of Helsinki, Main Building, Great hall
 
 *The national seminar is a full-day event with talks from invited international and Finnish guest speakers including researhers of various fields as well as representatives of the natural resources administration. The programme gives broad insight into the various uses of openly available bioviersity data in research, governance, and teaching, and introduces the newly established Finnish Biodiversity Information Facility FinBIF [www.laji.fi](http://www.laji.fi).*
 
-**Evening at the Allas Sea Pool"**
+**Evening at the Allas Sea Pool**
 Time: 18:30-
 Venue: Allas Sea Pool
 
