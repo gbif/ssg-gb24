@@ -8,4 +8,4 @@ imageLink: http://www.inaturalist.org/photos/3630510
 
 # Financial support
 
-More to come
+The information on financial support will be made available shortly.
