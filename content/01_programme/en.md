@@ -14,7 +14,15 @@ imageLink: http://www.inaturalist.org/photos/4244773
 -----------------------
 
 ## Printable PDF programme
-Download a printable one-page overview of GB24 by clicking here or by clicking on the image below.
+Download a printable one-page overview of GB24 by clicking [here](/raw/programme.pdf) or by clicking on the image below.
+
+```styledYaml
+templates:
+- path: pdfpreview_en.html
+  pdf: "/images/GB24_programme.pdf"
+  img: "images/GB24_programme.jpg"
+  description: Download pdf
+```
 
 -----------------------
 
