@@ -30,7 +30,7 @@ templates:
 
 Note that all attendance is subject to prior registration.  
 
-For address information on the various venues, please see [events description page](../travel-accommodation/#venue).
+For address information on the various venues and map, please see the [Travel and accommodation page](../travel-accommodation/).
 
 ### Sunday 24 September 2017
 
@@ -51,25 +51,25 @@ Venue: Hotel Arthur
 
 **Nodes Steering Group meeting**
 Time: 09:00-12:30
-Venue: TBC
+Venue: University of Helsinki
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
 **Budget Committee meeting**
 Time: 09:00-12:30
-Venue: TBC
+Venue: University of Helsinki
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Science Committee meeting**
 Time: 09:00-12:30
-Venue: TBC
+Venue: University of Helsinki
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Executive Committee meeting**
 Time: 13:30-17:00
-Venue: TBC
+Venue: University of Helsinki
 
 *The meeting is open to members of the GBIF Executive Committee*
 
@@ -77,22 +77,24 @@ Venue: TBC
 Time: 19:00-
 Venue: Finnish Museum of Natural History
 
-*All Node Managers and Governing Board delegates are invited to join the Icebreaker*
+*All Node Managers, committee members and Governing Board delegates are invited to join the Icebreaker*
 
 
 ### Tuesday 26 September 2017
 
-**Governing Board meeting Day 1**
+**Governing Board meeting Day 1, incl. Public Session**
 Time: 09:00-17:00
 Venue: University of Helsinki, Main Building, Small hall
 
 *The meeting is open to Governing Board delegates and invited observers*
+*The Public Session is open to the public (please notice that registration for this session is required)*
 
 **Dinner**
 Time: 19:30-
 Venue: Restaurant Sipuli
 
-*All Governing Board delegates are invited to join the Dinner*
+*All Governing Board delegates and invited observers are invited to join the Dinner*
+
 
 ### Wednesday 27 September 2017
 
@@ -102,6 +104,11 @@ Venue: University of Helsinki, Main Building, Small hall
 
 *The meeting is open to Governing Board delegates and invited observers*
 
+**Evening at the Allas Sea Pool**
+Time: 18:30-
+Venue: Allas Sea Pool
+
+
 ### Thursday 28 September 2017
 
 **Finnish National Seminar "Finnish Biodiversity Information for the Benefit of Society"**
@@ -109,10 +116,6 @@ Time: 09:00-17:00
 Venue: University of Helsinki, Main Building, Great hall
 
 *The national seminar is a full-day event with talks from invited international and Finnish guest speakers including researhers of various fields as well as representatives of the natural resources administration. The programme gives broad insight into the various uses of openly available bioviersity data in research, governance, and teaching, and introduces the newly established Finnish Biodiversity Information Facility FinBIF [www.laji.fi](http://www.laji.fi).*
-
-**Evening at the Allas Sea Pool**
-Time: 18:30-
-Venue: Allas Sea Pool
 
 
 ### Friday 29 September 2017
