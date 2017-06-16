@@ -14,7 +14,7 @@ imageLink: http://www.inaturalist.org/photos/4244773
 -----------------------
 
 ## Printable PDF programme
-Download a printable one-page overview of GB24 by clicking [here](/raw/programme.pdf) or by clicking on the image below.
+Download a printable one-page overview of GB24 by clicking [here](/raw/GB24_programme.pdf) or by clicking on the image below.
 
 ```styledYaml
 templates:
@@ -28,48 +28,48 @@ templates:
 
 ## Summary of events
 
-Note that all attendance is subject to prior registration.  
+**Note that all attendance is subject to prior registration.**
 
 For address information on the various venues and map, please see the [Travel and accommodation page](../travel-accommodation/).
 
 ### Sunday 24 September 2017
 
 **Global Nodes meeting Day 1**
-Time: 09:00-17:00
-Venue: Hotel Arthur
-
-*The meeting is open to GBIF Node managers*
-
-
-### Monday 25 September 2017
-
-**Global Nodes meeting Day 2**
-Time: 09:00-17:00
+Time: 09:00-17:30
 Venue: Hotel Arthur
 
 *The meeting is open to GBIF Node managers*
 
 **Nodes Steering Group meeting**
-Time: 09:00-12:30
-Venue: University of Helsinki
+Time: 17:30-21:00
+Venue: Hotel Arthur
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
 
+
+### Monday 25 September 2017
+
+**Global Nodes meeting Day 2**
+Time: 09:00-17:30
+Venue: Hotel Arthur
+
+*The meeting is open to GBIF Node managers*
+
 **Budget Committee meeting**
 Time: 09:00-12:30
-Venue: University of Helsinki
+Venue: To be confirmed
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Science Committee meeting**
 Time: 09:00-12:30
-Venue: University of Helsinki
+Venue: To be confirmed
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Executive Committee meeting**
 Time: 13:30-17:00
-Venue: University of Helsinki
+Venue: To be confirmed
 
 *The meeting is open to members of the GBIF Executive Committee*
 
