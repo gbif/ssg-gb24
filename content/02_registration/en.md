@@ -13,5 +13,9 @@ Before registering, we ask you to read the registration requirements listed on t
 
 Please note that your registration is not considered complete until you receive a confirmation email from the GBIF Secretariat, which will list the events for which you successfully registered.
 
+**Global Nodes meeting**
+If an appointed GBIF Node manager cannot attend the Global Nodes meeting and wishes to delegate the role, we kindly ask the Node manager to let the GBIF Secretariat know at [gb24@gbif.org](mailto:gb24@gbif.org) who will be acting Node manager at the meeting. 
 
+**Governing Board meeting**
+Additional delegates who wish to attend the official Governing Board meeting must get approval from their Head of Delegation. The Head of Delegation should notify the GBIF Secretariat at [gb24@gbif.org](mailto:gb24@gbif.org) who will be present at the meeting. According to the GBIF Rules of Procedure, each Head of Delegation may be accompanied to Governing Board meetings by up to two Additional delegates. 
 
