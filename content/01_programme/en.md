@@ -139,11 +139,12 @@ images:
 Choose: 
 -	Archipelago salmon soup or 
 -	Summer veggies soup.*
-The other attraction, [fortress of Suomenlinna](http://www.suomenlinna.fi/en/) is one of Finland’s UNESCO World Heritage Sites. Suomenlinna was built during the Swedish era as a maritime fortress and a base for the Archipelago Fleet.* 
+
+*The other attraction, [fortress of Suomenlinna](http://www.suomenlinna.fi/en/) is one of Finland’s UNESCO World Heritage Sites. Suomenlinna was built during the Swedish era as a maritime fortress and a base for the Archipelago Fleet.* 
 
 *There will be guided tours both in Vallisaari and Suomenlinna.*
 
-*Price: 50–60 eur* 
+*Price: 50–60 Euro* 
 
 **Excursion option 2: Nuuksio National Park**
 ```styledYaml
@@ -157,4 +158,4 @@ images:
 
 *We will have a guided tour in Nuuksio and a lunch over an open fire.*
 
-*Price: 50–60 eur*
+*Price: 50–60 Euro*
