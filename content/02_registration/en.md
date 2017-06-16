@@ -7,7 +7,7 @@ imageLink: http://www.inaturalist.org/photos/4300688
 ---
 # Registration
 
-Before registering, we ask you to read the registration requirements listed on the [programme page](https://gb24.gbif.org/en/programme/) for each event carefully and register only for the events that you are eligible to attend.
+Before registering, we ask you to read the registration requirements listed on the [programme page](../programme/) for each event carefully and register only for the events that you are eligible to attend.
 
 Please note that your registration is not considered complete until you receive a confirmation email from the GBIF Secretariat, which will list the events for which you successfully registered.
 
