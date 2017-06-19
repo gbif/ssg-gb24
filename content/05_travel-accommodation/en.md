@@ -170,6 +170,12 @@ You can find information on entering Finland on website of the Ministry for Fore
 
 See also information on visa requirements and travel documents: [http://www.formin.fi/public/default.aspx?nodeid=15720&contentlan=2&culture=en-US](http://www.formin.fi/public/default.aspx?nodeid=15720&contentlan=2&culture=en-US)
 
+If you require an official letter of invitation for the meetings, please contact [GB24 (at) gbif.org](mailto:GB24@gbif.org)
+
+### Insurance
+
+Participants are advised to ensure appropriate travel insurance for travel to Finland.
+
 -----------------------
 
 ## General travel information
