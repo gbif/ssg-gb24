@@ -121,7 +121,7 @@ Helsinki Airport website: [https://www.finavia.fi/en/helsinki-airport/](https://
 Arriving in Helsinki from airport:
 
 * By train:
-Local trains I and P operate between Helsinki Airport and the city centre on the Ring Rail Line. A regional ticket costs 5,50 euros and can be purchased from Helsinki Region Transport (HSL) ticket machines or via mobile application.
+Local trains I and P operate between Helsinki Airport and the city centre on the Ring Rail Line. A regional ticket costs 5,50 euros and can be purchased from Helsinki Region Transport (HSL) ticket machines or via mobile application ([https://www.hsl.fi/en/mobileticket](https://www.hsl.fi/en/mobileticket)).
 
 * By bus:
 The Finnair City Bus operates between the airport and city centre (Elielinaukio). A single ticket costs 6.20 euros when purchased online in advance or 6.30 euros from the driver.
@@ -129,7 +129,7 @@ The Finnair City Bus operates between the airport and city centre (Elielinaukio)
 Bus 615 (“Lentoasema-Rautatientori”) is operated by Helsinki Region Transport (HSL). A regional ticket costs 5,50 euros and can be purchased from Helsinki Region Transport (HSL) ticket machines or from the driver with cash. At night you can also take the 415N night bus. 
 
 * By taxi:
-You can also travel conveniently between the airport and the city centre by taxi, which will cost around 45 euros.
+You can also travel conveniently between the airport and the city centre by taxi, which will cost around 45 euros. Credit cards are accepted.
 
 More information on connections to Hesinki Airport here: [https://www.finavia.fi/en/helsinki-airport/to-and-from/train-buses-and-taxis/](https://www.finavia.fi/en/helsinki-airport/to-and-from/train-buses-and-taxis/)
 
@@ -145,8 +145,9 @@ You can also transfer from one vehicle to another with the same ticket.
 
 A day ticket is your key to getting around in the Helsinki metropolitan area. The tickets available on single-charge cards allow you to travel easily and at low-cost for 1-7 days.
 
-Single tickets are available from ticket machines, bus and tram drivers as well as conductors on commuter trains.
+Single tickets are available from ticket machines, bus and tram drivers as well as conductors on commuter trains. You can also buy single tickets with the mobile application: https://www.hsl.fi/en/mobileticket
 
+Tickets and Fares: https://www.hsl.fi/en/tickets-and-fares
 Helsinki Region Transport: https://www.hsl.fi/en/information/how-use-public-transport/visitors
 Journey planner: https://www.reittiopas.fi/
 City bikes: https://www.hsl.fi/en/citybikes
@@ -208,6 +209,8 @@ Helsinki is generally a very safe city. Pickpockets may be a risk as in any majo
 The emergency number in Finland is **112**. Call the emergency number only in genuine emergency situations, when someone’s life, health, property or the environment is in danger.
 
 Information on how to use the emergency number 112 in Finland: [http://www.112.fi/download/33220_Hake_112esittely_englanti.pdf?e984f3f10f5fd488](http://www.112.fi/download/33220_Hake_112esittely_englanti.pdf?e984f3f10f5fd488)
+
+A mobile application can be downloaded for locating emergency calls speeds up aid in emergency situations in Finland http://www.digia.com/en/services/offering/112-suomi/
 
 ###	Telecommunication and internet (mobile phone networks, internet services)
 
