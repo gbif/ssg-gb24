@@ -108,6 +108,8 @@ Venue: University of Helsinki, Main Building, Small hall
 Time: 18:30-
 Venue: Allas Sea Pool
 
+*All Node Managers, committee members and Governing Board delegates are invited to join the casual evening event*
+
 
 ### Thursday 28 September 2017
 
@@ -125,7 +127,7 @@ Time: 09:00-
 
 *The host warmly welcomes you to participate in one of the two excursions:*
 
-**Excursion option 1: Vallisaari and Suomenlinn**
+**Excursion option 1: Vallisaari and Suomenlinna**
 ```styledYaml
 images:
 - title: Suomenlinna Fortress by Michal Pise (CC-BY-2.0)
