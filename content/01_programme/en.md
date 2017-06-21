@@ -122,7 +122,7 @@ Venue: University of Helsinki, Main Building, Great hall
 
 ### Friday 29 September 2017
 
-**Excursions - Vallisaari and Suomenlinn or Nuuksio National Park**
+**Excursions - Vallisaari and Suomenlinna or Nuuksio National Park**
 Time: 09:00-
 
 *The host warmly welcomes you to participate in one of the two excursions:*
