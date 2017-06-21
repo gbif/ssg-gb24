@@ -8,4 +8,4 @@ imageLink: http://www.inaturalist.org/photos/3630510
 
 # Financial support
 
-The information on financial support will be made available shortly.
+The GBIF Secretariat is currently working on securing funding for travel support and information will be made available shortly.
