@@ -18,3 +18,5 @@ If an appointed GBIF Node manager cannot attend the Global Nodes meeting and wis
 Additional delegates who wish to attend the official Governing Board meeting must get approval from their Head of Delegation. The Head of Delegation should notify the GBIF Secretariat at [gb24@gbif.org](mailto:gb24@gbif.org) who will be present at the meeting. According to the GBIF Rules of Procedure, each Head of Delegation may be accompanied to Governing Board meetings by up to two Additional delegates. 
 
 Please click **[here](https://www.eventleaf.com/Attendee/Attendee/Registration?eId=m47HqqUM%2BA2e0A1OwU2HsQ%3D%3D)** to go to registration page. 
+
+The registration closes on **14 September 2017**.
