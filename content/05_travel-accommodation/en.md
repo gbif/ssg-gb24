@@ -1,5 +1,5 @@
 ---
-title: Travel and acccomodation
+title: Travel and accomodation
 description: Learn more about the event along with other tips and pointers for those travelling to Finland.
 image: /images/2 Winter in Finland.jpg
 imageTitle: Winter in Finland by Timo Seppäläinen (CC BY-SA 2.0)
