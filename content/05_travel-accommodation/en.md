@@ -6,7 +6,7 @@ imageTitle: Winter in Finland by Timo Seppäläinen (CC BY-SA 2.0)
 imageLink: https://www.flickr.com/photos/tilun_kuvat/23915382473
 ---
 
-# Travel and accomodation
+# Travel and accommodation
 
 <!-- toc -->
 
