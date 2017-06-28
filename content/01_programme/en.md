@@ -114,15 +114,15 @@ Venue: Allas Sea Pool
 ### Thursday 28 September 2017
 
 **Finnish National Seminar "Finnish Biodiversity Information for the Benefit of Society"**
-Time: 09:00-17:00
+Time: 09:00-16:45
 Venue: University of Helsinki, Main Building, Great hall
 
-*The national seminar is a full-day event with talks from invited international and Finnish guest speakers including researhers of various fields as well as representatives of the natural resources administration. The programme gives broad insight into the various uses of openly available bioviersity data in research, governance, and teaching, and introduces the newly established Finnish Biodiversity Information Facility FinBIF [laji.fi/news/1710](https://laji.fi/news/1710).*
+*The national seminar is a full-day event with talks from invited international and Finnish guest speakers including researhers of various fields as well as representatives of the natural resources administration. The programme gives broad insight into the various uses of openly available bioviersity data in research, governance, and teaching, and introduces the newly established Finnish Biodiversity Information Facility FinBIF [laji.fi/news/1749](https://laji.fi/news/1749).*
 
 
 ### Friday 29 September 2017
 
-**Excursions - Vallisaari and Suomenlinna or Nuuksio National Park**
+**Excursions:  1) Vallisaari and Suomenlinna or 2) Nuuksio National Park**
 Time: 09:00-
 
 *The host warmly welcomes you to participate in one of the two excursions:*
@@ -137,8 +137,8 @@ images:
 
 *[Vallisaari](http://www.nationalparks.fi/vallisaari) is just 20 minutes by boat from the Market Square in Helsinki. The island was opened for the public last year – before that it was decades abandoned and the nature took its place. Vallisaari is the most diverse nature destination in the metropolitan area. The island’s fortifications, buildings, and a record-breaking range of species tell a tale of coexistence between humans and wild nature.*
 
-*Lunch will be served in Vallisaari.
-Choose: 
+*Lunch will be served in Vallisaari.*
+*Choose: 
 -	Archipelago salmon soup or 
 -	Summer veggies soup.*
 
