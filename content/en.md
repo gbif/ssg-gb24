@@ -6,7 +6,7 @@ imageTitle: Birch Forest by Miguel Virkkunen Carvalho (CC BY 2.0)
 imageLink: https://www.flickr.com/photos/miguelvirkkunen/10889431856
 ---
 
-# Welcome to GB24, Finland 
+# Welcome to GB24 Finland 
 
 <p align="center">_The 24th meeting of the GBIF Governing Board and associated events_
 _Helsinki, Finland_
