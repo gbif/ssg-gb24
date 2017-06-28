@@ -155,12 +155,11 @@ Journey planner: https://www.reittiopas.fi/
 ### Taxi
 
 Taxi stands are conveniently located throughout the city centre.
-*	Taksi-Helsinki
+*	[Taksi-Helsinki](https://taksihelsinki.fi/en/book-a-taxi/)
 tel. +358 (0)100 0700 (1,17€/call +0,25€/10 seconds + local call charge)
-*	Airport Taxi Yellow Line
+*	[Airport Taxi Yellow Line](https://airporttaxi.fi/en/)
 tel. +358 (0)600 555 555 (1,25 €/call+local call charge). From airport to city centre with special price.
 
-More information on how to book a taxi and list of taxi fares can be found at [https://taksihelsinki.fi/en/book-a-taxi/](https://taksihelsinki.fi/en/book-a-taxi/).
 
 ### Bike
 
@@ -204,8 +203,8 @@ Major credit cards such as Visa, MasterCard and American Express are widely acce
 
 ###	Health
 Pharmacy:
-* Yliopiston Apteekki Helsinki Töölö (Mannerheimintie 96) is open 24/7
-* Yliopiston Apteekki Helsinki Center (Mannerheimintie 5) is open every day 7-24
+* [Yliopiston Apteekki Helsinki Töölö](https://www.yliopistonapteekki.fi/omh/storelocator/view/id/3/) (Mannerheimintie 96) is open 24/7
+* [Yliopiston Apteekki Helsinki Center](https://www.yliopistonapteekki.fi/omh/storelocator/view/id/2/) (Mannerheimintie 5) is open every day 7-24
 
 Smoking is prohibited in public buildings and restaurants and pubs.
 
@@ -223,7 +222,7 @@ A mobile application can be downloaded for locating emergency calls and will spe
 
 The main network providers are Elisa, Telia and DNA.
 
-Prepaid SIM: http://prepaid-data-sim-card.wikia.com/wiki/Finland
+Prepaid SIM: [http://prepaid-data-sim-card.wikia.com/wiki/Finland](http://prepaid-data-sim-card.wikia.com/wiki/Finland)
 
 ### Opening hours
 Shops and department stores are allowed to be open every day of the week. Opening hours vary.
