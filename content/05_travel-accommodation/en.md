@@ -16,7 +16,7 @@ imageLink: https://www.flickr.com/photos/tilun_kuvat/23915382473
 
 ## Venues
 
-See [map](/travel-accommodation/#map) for location of the venues. 
+See [map](/#map) for location of the venues. 
 
 **[Hotel Arthur](http://www.hotelarthur.fi/en/)**
 Vuorikatu 19
@@ -30,7 +30,7 @@ Helsinki
 
 ```styledYaml
 images: 
-- title: University of Helsinki Main Building
+- title: University of Helsinki Main Building by Ari Aalto (CC By 2.0)
   url: /images/University.jpg
   link: reference-location
 ```
@@ -120,16 +120,16 @@ Helsinki Airport website: [https://www.finavia.fi/en/helsinki-airport/](https://
 
 Arriving in Helsinki from airport:
 
-* By train:
-Local trains I and P operate between Helsinki Airport and the city centre on the Ring Rail Line. A regional ticket costs 5.50 euros and can be purchased from Helsinki Region Transport (HSL) ticket machines or via mobile application ([https://www.hsl.fi/en/mobileticket](https://www.hsl.fi/en/mobileticket)).
+**By train:**
+* Local trains I and P operate between Helsinki Airport and the city centre on the Ring Rail Line. A regional ticket costs 5.50 euros and can be purchased from Helsinki Region Transport (HSL) ticket machines or via mobile application ([https://www.hsl.fi/en/mobileticket](https://www.hsl.fi/en/mobileticket)). Timetables for the I and P trains can be found at [https://www.hsl.fi/en/timetables-and-routes/terminals/transport-links-helsinki-airport[(https://www.hsl.fi/en/timetables-and-routes/terminals/transport-links-helsinki-airport). 
 
-* By bus:
-The Finnair City Bus operates between the airport and city centre (Elielinaukio). A single ticket costs 6.20 euros when purchased online in advance or 6.30 euros from the driver. 
+**By bus:**
+* The Finnair City Bus operates between the airport and city centre (Elielinaukio). A single ticket costs 6.20 euros when purchased online in advance or 6.30 euros from the driver. More information about the Finnair City Bus, including timetables, can be found at [https://www.finnair.com/int/gb/information-services/at-the-airport/transportation](https://www.finnair.com/int/gb/information-services/at-the-airport/transportation). 
 
-Bus 615 (“Lentoasema-Rautatientori”) is operated by Helsinki Region Transport (HSL). A regional ticket costs 5.50 euros and can be purchased from Helsinki Region Transport (HSL) ticket machines or from the driver with cash. At night you can also take the 415N night bus. 
+* Bus 615 (“Lentoasema-Rautatientori”) is operated by Helsinki Region Transport (HSL). A regional ticket costs 5.50 euros and can be purchased from Helsinki Region Transport (HSL) ticket machines or from the driver with cash. At night you can also take the 415N night bus. Timetable for the Bus 615 can be found at [https://www.hsl.fi/en/timetables-and-routes/terminals/transport-links-helsinki-airport](https://www.hsl.fi/en/timetables-and-routes/terminals/transport-links-helsinki-airport). 
 
-* By taxi:
-You can also travel conveniently between the airport and the city centre by taxi, which will cost around 45 euros. Credit cards are accepted.
+**By taxi:**
+* You can also travel conveniently between the airport and the city centre by taxi, which will cost around 45 euros. Credit cards are accepted. More information about taxis in Helsinki can be found at [http://www.visithelsinki.fi/en/come/getting-around-in-helsinki/taxis-and-car-rentals-in-helsinki](http://www.visithelsinki.fi/en/come/getting-around-in-helsinki/taxis-and-car-rentals-in-helsinki). 
 
 More information on connections to Hesinki Airport here: [https://www.finavia.fi/en/helsinki-airport/to-and-from/train-buses-and-taxis/](https://www.finavia.fi/en/helsinki-airport/to-and-from/train-buses-and-taxis/)
 
@@ -150,7 +150,7 @@ Single tickets are available from ticket machines, bus and tram drivers as well 
 Tickets and Fares: https://www.hsl.fi/en/tickets-and-fares
 Helsinki Region Transport: https://www.hsl.fi/en/information/how-use-public-transport/visitors
 Journey planner: https://www.reittiopas.fi/
-City bikes: https://www.hsl.fi/en/citybikes
+
 
 ### Taxi
 
@@ -159,6 +159,13 @@ Taxi stands are conveniently located throughout the city centre.
 tel. +358 (0)100 0700 (1,17€/call +0,25€/10 seconds + local call charge)
 *	Airport Taxi Yellow Line
 tel. +358 (0)600 555 555 (1,25 €/call+local call charge). From airport to city centre with special price.
+
+More information on how to book a taxi and list of taxi fares can be found at [https://taksihelsinki.fi/en/book-a-taxi/](https://taksihelsinki.fi/en/book-a-taxi/).
+
+### Bike
+
+You can also rent a bike. More information available on City bikes at [https://www.hsl.fi/en/citybikes](https://www.hsl.fi/en/citybikes). 
+
 
 -----------------------
 
@@ -210,7 +217,7 @@ The emergency number in Finland is **112**. Call the emergency number only in ge
 
 Information on how to use the emergency number 112 in Finland: [http://www.112.fi/download/33220_Hake_112esittely_englanti.pdf?e984f3f10f5fd488](http://www.112.fi/download/33220_Hake_112esittely_englanti.pdf?e984f3f10f5fd488)
 
-A mobile application can be downloaded for locating emergency calls and will speed up aid in emergency situations in Finland http://www.digia.com/en/services/offering/112-suomi/. The application enables the automatic delivery of the caller's location for information to the emergency service dispatcher. 
+A mobile application can be downloaded for locating emergency calls and will speed up aid in emergency situations in Finland at http://www.digia.com/en/services/offering/112-suomi/. The application enables the automatic delivery of the caller's location for information to the emergency service dispatcher. 
 
 ###	Telecommunication and internet (mobile phone networks, internet services)
 
