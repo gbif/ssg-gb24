@@ -130,7 +130,7 @@ Time: 09:00-
 **Excursion option 1: Vallisaari and Suomenlinna**
 ```styledYaml
 images:
-- title: Vallisaari by XXX (CC-BY-2.0)
+- title: Vallisaari by Tuomo Hayrinen (CC-BY-2.0)
   url: /images/Vallisaari.jpg
   link: reference-location
 ```
