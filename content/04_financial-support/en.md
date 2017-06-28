@@ -8,4 +8,4 @@ imageLink: http://www.inaturalist.org/photos/3630510
 
 # Financial support
 
-The GBIF Secretariat is currently working on securing funding for travel support and information will be made available shortly.
+The GBIF Secretariat is currently working on securing funding for partial support to attend the Global Nodes meeting and the Governing Board meeting. More information will be made available shortly and GBIF Heads of Delegation and Node managers will be notified when the information is available.
