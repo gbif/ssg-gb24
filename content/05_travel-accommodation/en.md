@@ -16,7 +16,7 @@ imageLink: https://www.flickr.com/photos/tilun_kuvat/23915382473
 
 ## Venues
 
-See [map](/#map) for location of the venues. 
+See [map](https://gb24.gbif.org/en/travel-accommodation/#map) for location of the venues. 
 
 **[Hotel Arthur](http://www.hotelarthur.fi/en/)**
 Vuorikatu 19
@@ -63,7 +63,7 @@ Helsinki
 
 The local organizers recommend booking a room in one of the hotels mentioned below. There is an accommodation quota in some of the hotels listed below.  Please make your reservation in advance directly at the conference hotels by using the specific reservation codes.  
 
-Check the [map](../travel-accommodation/#map) for hotel locations. 
+Check the [map](https://gb24.gbif.org/en/travel-accommodation/#map) for hotel locations. 
 
 **Hotel Arthur**
 Vuorikatu 19
