@@ -9,19 +9,21 @@ imageLink: http://www.inaturalist.org/photos/3630510
 # Financial support
 
 The GBIF Secretariat offers the possibility of applying for partial funding to attend 1) the Governing Board meeting, and/or 2) the Global Nodes meeting. Support may include partial funding of economy-class flight tickets and accommodation. 
-Limited funding has already already allocated for such support, and the Secretariat is working to secure additional funding. The application process is now open.  
+
+Limited funding has already been allocated for such support, and the Secretariat is working to secure additional funding. The application process is now open.  
 
 Please see below for more details on the guidelines for seeking partial funding for the two events. Link to the application form can be found at the bottom of this page. 
 
-**Deadline for applying is Monday 31 July. Applications should be sent to [GB24@gbif.org](mailto:GB24@gbif.org).**
-**Applications received after the deadline will not be considered.**
+**Deadline for applying is Monday 31 July** 
+**Applications should be sent to [GB24@gbif.org](mailto:GB24@gbif.org)**
+**Applications received after the deadline will not be considered**
 
 The GBIF Secretariat staff will inform applicants about the outcome of their application in the beginning of August.  
 
 ## Global Nodes meeting, 24-25 September 2017
 
 - All GBIF Node managers are eligible to apply for partial funding. 
--	As the funds available are limited the requests for support will be prioritized as follows: 
+-	As the funds available are limited, the requests for support will be prioritized as follows: 
   +	Node managers/representatives from Voting Participant countries which are in good standing in regard to GBIF financial contributions.
   +	Node managers/representatives from other Voting and Associate Participant countries, based on level of activity and contribution to GBIF.
   +	Node manager/representatives from Associate Participant organizations, based on level of activity and contribution to GBIF.
@@ -49,3 +51,12 @@ The GBIF Secretariat staff will inform applicants about the outcome of their app
 If you will attend both the Global Nodes meeting and the Governing Board meeting, you may apply for funding covering both events. However, please read the guidelines for both events carefully. 
 
 Do not hesitate contacting the Secretariat at [GB24@gbif.org](mailto:GB24@gbif.org) if you have any questions. 
+
+```styledYaml
+templates:
+- path: actions.html
+  actions:
+  - title: Financial support application form
+    url: /raw/GB24_Partial_funding_form.doc
+    description: Download Word doc
+```
