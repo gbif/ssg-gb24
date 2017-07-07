@@ -89,7 +89,7 @@ Katajanokanlaituri 7
 Helsinki 
 
 Rates: 125 eur/night/single room, 145 eur/night/double room
-Booking: [https://www.scandichotels.com/hotels/finland/helsinki/scandic-grand-marina?_ga=2.66546408.752222354.1496063026-108552031.1496063026](https://www.scandichotels.com/hotels/finland/helsinki/scandic-grand-marina?_ga=2.66546408.752222354.1496063026-108552031.1496063026)
+Booking: [https://www.scandichotels.fi/grandmarina?bookingcode=BBIO250917](https://www.scandichotels.fi/grandmarina?bookingcode=BBIO250917)
 Booking code: BBIO250917
 *Price is valid until 11 September 2017. No quota.*
 
