@@ -47,7 +47,7 @@ The GBIF Secretariat staff will inform applicants about the outcome of their app
   +	A confirmation that the delegate will be able to cover all other costs (visa, health insurance, per diem, etc.) 
 - Funding will not be provided in advance of the meeting, but by reimbursement after the meeting. 
 
-*) For this purpose, developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to 2013 World Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period. See list of countries [here](https://gb24.gbif.org/raw/GBIF_VP_developing_countries.pdf).* 
+* *) For this purpose, developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to 2013 World Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period. See list of developing countries [here](https://gb24.gbif.org/raw/GBIF_VP_developing_countries.pdf).* 
 
 
 ## Attending both events?
