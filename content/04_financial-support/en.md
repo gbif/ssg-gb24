@@ -38,7 +38,7 @@ The GBIF Secretariat staff will inform applicants about the outcome of their app
 
 ## Governing Board meeting, 26-27 September 2017
 
--	Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants representing developing countries * and in good standing in regard to GBIF financial contributions. 
+-	Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants representing developing countries (1) and in good standing in regard to GBIF financial contributions. 
 -	Support is primarily intended for Heads of Delegation. However, a Participant may alternatively request support for a different delegate to attend in place of the Head of Delegation.  In such cases, a written confirmation of this reassignment by the Head of Delegation must accompany the application form.  
 -	Only one delegate per delegation is eligible to receive support.
 -	An application form (download link at the bottom of this page) must be submitted within the deadline, including the following information: 
@@ -47,7 +47,7 @@ The GBIF Secretariat staff will inform applicants about the outcome of their app
   +	A confirmation that the delegate will be able to cover all other costs (visa, health insurance, per diem, etc.) 
 - Funding will not be provided in advance of the meeting, but by reimbursement after the meeting. 
 
-* *) For this purpose, developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to 2013 World Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period. See list of developing countries [here](https://gb24.gbif.org/raw/GBIF_VP_developing_countries.pdf).* 
+1) For this purpose, developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to 2013 World Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period. See list of developing countries [here](https://gb24.gbif.org/raw/GBIF_VP_developing_countries.pdf).* 
 
 
 ## Attending both events?
