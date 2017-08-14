@@ -56,13 +56,13 @@ Venue: Hotel Arthur
 *The meeting is open to GBIF Node managers*
 
 **Budget Committee meeting**
-Time: 09:00-12:30
+Time: 08:30-12:00
 Venue: To be confirmed
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Science Committee meeting**
-Time: 09:00-12:30
+Time: 08:30-12:00
 Venue: To be confirmed
 
 *The meeting is open to members of the GBIF Science Committee*
