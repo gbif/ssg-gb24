@@ -35,13 +35,13 @@ For address information on the various venues and map, please see the [Travel an
 ### Sunday 24 September 2017
 
 **Global Nodes meeting Day 1**
-Time: 09:00-17:30
+Time: 09:00-16:00
 Venue: Hotel Arthur
 
 *The meeting is open to GBIF Node managers*
 
 **Nodes Steering Group meeting**
-Time: 17:30-21:00
+Time: 16:30-18:00
 Venue: Hotel Arthur
 
 *The meeting is open to members of the GBIF Nodes Steering Group*
@@ -50,7 +50,7 @@ Venue: Hotel Arthur
 ### Monday 25 September 2017
 
 **Global Nodes meeting Day 2**
-Time: 09:00-17:30
+Time: 09:00-17:00
 Venue: Hotel Arthur
 
 *The meeting is open to GBIF Node managers*
