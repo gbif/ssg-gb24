@@ -110,6 +110,8 @@ Venue: Allas Sea Pool
 
 *All Node Managers, committee members and Governing Board delegates are invited to join the casual evening event*
 
+*Remember to bring your swinsuit!*
+
 
 ### Thursday 28 September 2017
 
