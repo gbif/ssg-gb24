@@ -57,19 +57,19 @@ Venue: Hotel Arthur
 
 **Budget Committee meeting**
 Time: 08:30-12:00
-Venue: To be confirmed
+Venue: University of Helsinki, Main Building, Room 9
 
 *The meeting is open to members of the GBIF Budget Committee*
 
 **Science Committee meeting**
 Time: 08:30-12:00
-Venue: To be confirmed
+Venue: University of Helsinki, Main Building, Room 11
 
 *The meeting is open to members of the GBIF Science Committee*
 
 **Executive Committee meeting**
 Time: 13:30-17:00
-Venue: To be confirmed
+Venue: University of Helsinki, Main Building, Room 11
 
 *The meeting is open to members of the GBIF Executive Committee*
 
@@ -103,6 +103,12 @@ Time: 09:00-17:00
 Venue: University of Helsinki, Main Building, Small hall
 
 *The meeting is open to Governing Board delegates and invited observers*
+
+**Executive Committee meeting**
+Time: 17:00-19:30
+Venue: University of Helsinki, Main Building, Auditorium 1
+
+*The meeting is open to members of the GBIF Executive Committee*
 
 **Evening at the Allas Sea Pool**
 Time: 18:30-
