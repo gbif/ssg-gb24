@@ -35,7 +35,7 @@ images:
   link: reference-location
 ```
 
-*	Meetings of the GBIF Nodes Steering Group, Budget, Science and Executive Committees (25 September)
+*	Meetings of the GBIF Nodes Steering Group, Budget, Science and Executive Committees, entrance at Fabianinkatu 33 (25 September)
 * Governing Board meeting, Small hall, entrance at Fabianinkatu 33 (26-27 September)
 *	FinBIF Seminar, Great hall, entrance at Unioninkatu 34 or Aleksanterinkatu 5 (28 September)
 
