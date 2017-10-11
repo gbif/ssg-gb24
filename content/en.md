@@ -12,14 +12,16 @@ imageLink: https://www.flickr.com/photos/miguelvirkkunen/10889431856
 _Helsinki, Finland_
 _24-29 September 2017_</p>
 
-The Finnish Museum of Natural History, University of Helsinki, on behalf of Finland, is pleased to host the **24th meeting (GB24) of the GBIF Governing Board** and warmly welcomes all delegations to Helsinki. 
+The Finnish Museum of Natural History, University of Helsinki, on behalf of Finland, hosted the **24th meeting (GB24) of the GBIF Governing Board** in Helsinki. 
 
-The official Governing Board meeting will take place on 26-27 September 2017. 
+The official Governing Board meeting took place on 26-27 September 2017. The meeting was attended by 28 Voting Participants, 4 Associate Participant Countries, 13 Other Associate Participants and a number of Observers. 
 
-A Global Nodes meeting will take place on 24-25 September and Governance committee meetings will take place on 25 September. 
 
-Also, the host kindly invites everybody to participate in the Finnish National Seminar “Finnish Biodiversity Information for the Benefit of Society”, to be held in English, on 28 September. 
+_Governing Board meeting group photo (Photo by Linda Tammisto, CC0 2017)_
 
-Attendees may also sign up to conclude their visit on an excursion on 29 September to visit boreal nature. 
+A Global Nodes meeting took place on 24-25 September. 
 
-Please see the [Programme information page](https://gb24.gbif.org/en/programme/) for detailed information on all events. 
+_Global Nodes meeting group photo (Photo by Anne Mette Nielsen, CC BY-NC 4.0)_
+
+Recordings from the Global Nodes meeting and the GBIF Public session can be access from [here](https://www.idigbio.org/wiki/index.php/The_24th_meeting_of_the_GBIF_Governing_Board).
+
