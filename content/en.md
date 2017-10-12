@@ -35,5 +35,5 @@ images:
 ```
 _Global Nodes meeting group photo (Photo by Anne Mette Nielsen, CC BY-NC 4.0)_
 
-Recordings from the Global Nodes meeting and the GBIF Public session can be accessed from [here](https://www.idigbio.org/wiki/index.php/The_24th_meeting_of_the_GBIF_Governing_Board).
+For recordings, presentations and documents from the meetings, please see [https://gb24.gbif.org/en/meeting-documents/](https://gb24.gbif.org/en/meeting-documents/).
 
