@@ -22,7 +22,7 @@ The presentations and recordings from the GBIF Public Session on 26 September ca
 
 **14th GBIF Global Nodes meeting**
 - The Global Nodes meeting agenda can be downloaded [here](https://gb24.gbif.org/raw/GNM14_Draft_Agenda.pdf)
-- The presentations from the Global Nodes meeting can be viewed and downloaded from [here](https://gbif.box.com/s/mq1q92j9lqxfxatb80sjkzk33z3njkim)
+- The presentations from the Global Nodes meeting can be viewed and downloaded from [here](https://gbif.box.com/s/y9fe31f8o1ki39w8xw9y7mu19rwhez4x)
 - The recordings of the Global Nodes meeting can be accessed [here](https://www.idigbio.org/wiki/index.php/The_24th_meeting_of_the_GBIF_Governing_Board)
 
 
